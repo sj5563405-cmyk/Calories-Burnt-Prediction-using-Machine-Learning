@@ -1,26 +1,36 @@
-# 🚀 Project Title: Resume Screening AI
+# 🔥 Calories Burnt Prediction using Machine Learning
 
 ## 📌 Overview
-This project is an AI-based Resume Screening System that helps automate the process of filtering resumes based on job requirements. It uses Natural Language Processing (NLP) and Machine Learning techniques to analyze resumes and classify them into relevant categories.
+
+This project focuses on predicting the number of calories burned during physical activities using Machine Learning techniques. It analyzes user data such as age, gender, height, weight, duration, heart rate, and body temperature to estimate calories burned.
 
 ## 🎯 Objective
-- Automate resume shortlisting process
-- Reduce manual HR effort
-- Improve candidate-job matching accuracy
+
+* Build a predictive model to estimate calories burned
+* Help users track fitness and health performance
+* Apply regression algorithms for real-world prediction
 
 ## 🧠 Features
-- Resume text extraction
-- Data preprocessing (cleaning, tokenization)
-- Feature extraction using TF-IDF / NLP techniques
-- Machine learning model for classification
-- Prediction of resume category/job role
+
+* Data preprocessing and cleaning
+* Exploratory Data Analysis (EDA)
+* Feature selection and engineering
+* Model training using regression algorithms
+* Model evaluation using performance metrics
+* Prediction on new input data
 
 ## 🛠️ Tech Stack
-- Python 🐍
-- Pandas
-- NumPy
-- Scikit-learn
-- NLTK / SpaCy
-- Matplotlib / Seaborn (for visualization)
+
+* Python 🐍
+* Pandas
+* NumPy
+* Scikit-learn
+* Matplotlib
+* Seaborn
+* Jupyter Notebook
 
 ## 📂 Project Structure
+
+```
+├
+```
